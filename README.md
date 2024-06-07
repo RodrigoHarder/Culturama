@@ -25,10 +25,6 @@ Desenvolvimento do projeto culturama ao longo do curso de [Praticando CSS: Grid
 - Posicionar itens por meio da criação de um template com áreas do Grid;
 - Criação de um projeto utilizando o método mobile-first;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/culturama/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
